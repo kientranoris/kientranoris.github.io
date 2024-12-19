@@ -5411,6 +5411,7 @@ file_selector_windows
 flutter_lints
 flutter_plugin_android_lifecycle
 flutter_shaders
+go_router
 image_picker_for_web
 image_picker_linux
 image_picker_macos
